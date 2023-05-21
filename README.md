@@ -65,7 +65,7 @@
         height="48"
         alt="Jest"
       />
-      <br /><strong>Tailwind</strong>
+      <br /><strong>Jest</strong>
     </td>
   </tr>
   <tr>
