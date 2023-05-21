@@ -40,9 +40,7 @@
       />
       <br /><strong>Tailwind</strong>
     </td>
-  </tr>
-  <tr>
-    <td align="center" height="108" width="108">
+      <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
         width="48"
@@ -51,6 +49,8 @@
       />
       <br /><strong>Node.js</strong>
     </td>
+  </tr>
+  <tr>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
